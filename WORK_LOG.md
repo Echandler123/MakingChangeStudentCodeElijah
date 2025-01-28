@@ -1,9 +1,10 @@
 Name: Elijah Chandler
 
-| Date    |     Time     |                                                                          Update |
-|:--------|:------------:|--------------------------------------------------------------------------------:|
-| April 5 |    9-10pm    |                                      I tried to write abstract, efficient code. |
-| Jan 24  | 12:45 - 1:45 | Went through specifications of problem set and thought about possible solution. |
+| Date    |     Time      |                                                                                                                                                                                                                                                                                                                               Update |
+|:--------|:-------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| April 5 |    9-10pm     |                                                                                                                                                                                                                                                                                           I tried to write abstract, efficient code. |
+| Jan 24  | 12:45 - 1:45  |                                                                                                                                                                                                                                                      Went through specifications of problem set and thought about possible solution. |
+| Jan 28  | 10:50 - 11:50 | The solution I was thinking about was using an adjacency list to make a list to keep track of each possible combination similar to the way we kept track of each path in heatingup. I made a method that will be recursive called findways but I have not figure out what all the bases cases would be and how to finish the method. |
 
 
 To add a new row to the table, click into a cell and then hit shift-enter.
