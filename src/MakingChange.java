@@ -11,8 +11,7 @@ import java.util.Arrays;
 
 public class MakingChange {
     /**
-     * TODO: Complete this function, countWays(), to return the number of ways to make change
-     *  for any given total with any given set of coins.
+
      */
     public static long countWays(int target, int[] coins) {
         Arrays.sort(coins);
